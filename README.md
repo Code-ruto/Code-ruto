@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Code-ruto
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Data Analysis and NLP
+- 💞️ I’m looking to collaborate on Computer Vision projects
+- 📫 How to reach me: www.linkedin.com/in/anthony-randall-ai
